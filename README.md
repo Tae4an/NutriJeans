@@ -23,14 +23,22 @@
 
 ---
 ## 시연 영상
-[https://youtube.com/shorts/CZ7b2R2IDlM?si=f9rNvvtNi4ciuIdn
-](https://www.youtube.com/shorts/CZ7b2R2IDlM)
+<div align="center">
+  <a href="https://www.youtube.com/shorts/CZ7b2R2IDlM">
+    <img src="https://github.com/user-attachments/assets/ef42630d-24ab-4992-872a-070f00a9906e" alt="시연 영상" width="280" />
+  </a>
+</div>
+
 
 ## 시스템 구조도
 ![아키텍처222](https://github.com/user-attachments/assets/3e11c28f-c44e-4df0-93a4-ccaa65302809)
 
 
+---
+## 화면 구성
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c82b42e3-b510-4d5f-93fe-18cf26274c84" />
 
+<img width="1920" height="1080" alt="OCR 앱 화면 (1)" src="https://github.com/user-attachments/assets/d1fbbeaa-4c78-49c8-a386-7eeed0ee7f52" />
 
 ---
 
@@ -66,8 +74,4 @@
 - GitHub, Notion, Google Docs
 - VS Code, HeidiSQL, ChatGPT
 
----
-![image](https://github.com/user-attachments/assets/52ca8eaa-af08-4869-80c5-6769aaf784a6)
----
-![image](https://github.com/user-attachments/assets/b60e381d-de6b-4749-84f5-2e2f70a17103)
 
